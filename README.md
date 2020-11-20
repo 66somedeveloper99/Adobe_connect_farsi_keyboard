@@ -1,6 +1,6 @@
 # Adobe_connect_farsi_keyboard
 A simple (growing ) keyboard to use in Adobe connect for Persian language
-//// stepsnto change the app 
+//// steps to change the app 
 
 1 : unzip the one file available
 2 : edit :)
